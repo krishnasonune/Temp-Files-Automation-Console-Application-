@@ -1,0 +1,15 @@
+C:\Users\Krishna\Desktop\Automate\bin\Debug\net6.0\Automate.exe
+C:\Users\Krishna\Desktop\Automate\bin\Debug\net6.0\Automate.deps.json
+C:\Users\Krishna\Desktop\Automate\bin\Debug\net6.0\Automate.runtimeconfig.json
+C:\Users\Krishna\Desktop\Automate\bin\Debug\net6.0\Automate.dll
+C:\Users\Krishna\Desktop\Automate\bin\Debug\net6.0\Automate.pdb
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\Automate.csproj.AssemblyReference.cache
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\Automate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\Automate.AssemblyInfoInputs.cache
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\Automate.AssemblyInfo.cs
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\Automate.csproj.CoreCompileInputs.cache
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\Automate.dll
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\refint\Automate.dll
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\Automate.pdb
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\Automate.genruntimeconfig.cache
+C:\Users\Krishna\Desktop\Automate\obj\Debug\net6.0\ref\Automate.dll
