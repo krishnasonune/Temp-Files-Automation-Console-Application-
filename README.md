@@ -26,7 +26,7 @@ Temp Files Automation automates the process of deleting temp files from specifie
 
     //for single path do you can do it in this way
     
-    string path = @'Enter your path here';
+    string path = Path.GetTempPath();
     Automation automate = new Automation();
 
     automate.DeleteAllTempFiles(path);
